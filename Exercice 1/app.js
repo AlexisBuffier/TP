@@ -6,3 +6,4 @@ btnHide.addEventListener('click', function()
 
     div.style.display = "none";
 });
+
